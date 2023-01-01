@@ -1,0 +1,18 @@
+lightning-input{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font: bold;
+    font-family:sans-serif;
+}
+
+lightning-layout{
+    color: rgb(255, 123, 0);
+    background-color: black;
+}
+
+div{
+    background-color: black;
+}
+template{
+    background-color: black;
+}
